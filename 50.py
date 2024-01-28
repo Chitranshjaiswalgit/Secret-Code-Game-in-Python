@@ -1,4 +1,4 @@
-# Secret Code Game in Pythom
+# Secret Code Game in Python
 print("\n\n***** Welcome to Secret Code Game *****\n")
 coding = input("\nEnter 1 for Coding or 0 for Decoding : ")
 st = input("\nEnter the message : ")
