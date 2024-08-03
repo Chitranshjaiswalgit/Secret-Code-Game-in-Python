@@ -1,4 +1,4 @@
-# Secret-Code-Game-in-Python
+# Secret Code Game in Python
 
 ## Table of Contents
 - [Project Overview](#project-overview)
